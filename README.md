@@ -28,17 +28,19 @@ Analyzed the distribution of instrumentalness and its relationship with other at
 Investigated how instrumentalness varies across different genres.
 
 **Modeling**
+
 Various regression and classification models were used to predict popularity, danceability, and instrumentalness, as well as to classify genres. The models include:
 
-Linear Regression
-Random Forest
-XGBoost
-Lasso
-Ridge
-SVM
-Voting Regressor
-Stacking Regressor
-Popularity Modeling Results
+- Linear Regression
+- Random Forest
+- XGBoost
+- Lasso
+- Ridge
+- SVM
+- Voting Regressor
+- Stacking Regressor
+- Popularity Modeling Results
+
 The Stacking Regressor showed the best performance with an RMSE of 15.1677 and an R² score of 0.5413.
 
 **Danceability Modeling Results**
