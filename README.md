@@ -146,3 +146,11 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/spotify-analysis.git
 cd spotify-analysis
 pip install -r requirements.txt
+```
+Run the EDA
+```sh
+python Spotify_EDA.py
+```
+Run the Machine learning models by executing the Model/prediction files.
+
+Happy Coding!
